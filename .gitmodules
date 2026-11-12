@@ -8,5 +8,5 @@
 	branch = main
 [submodule "AI"]
 	path = AI
-	url = https://github.com/QuantumLogicsLabs/AI-Background-Remover-AI.git
+	url = https://github.com/idrisrafaqat18/AI-Background-Remover-AI.git
 	branch = main
